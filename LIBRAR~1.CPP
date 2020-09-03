@@ -115,7 +115,7 @@ void main()
 			cout<<endl<<endl<<endl;
 			centerText("CREATED BY", GREEN);
 			cout<<endl<<endl;
-			centerText("*** JIBIN JOY *** NIRMAL P RAMDAS *** ABHIJITH K A ***", LIGHTBLUE);
+			centerText("*** -------- ***", LIGHTBLUE);
 			sleep(5);
 			exit(0);
 		default:
