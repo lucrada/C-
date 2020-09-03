@@ -83,7 +83,7 @@ void main()
 	clrscr();
 	border();
 	cout<<endl<<endl<<endl;
-	centerText("SUMA LIBRARY", YELLOW);
+	centerText("---- LIBRARY", YELLOW);
 	cout<<endl<<endl;
 	centerText("1.GUEST", GREEN);
 	centerText("2.MEMBERS LOGIN", GREEN);
@@ -1577,7 +1577,7 @@ void guest()
 	clrscr();
 	border();
 	cout<<endl;
-	centerText("SUMA LIBRARY", YELLOW);
+	centerText("---- LIBRARY", YELLOW);
 	cout<<endl<<endl;
 	centerText("1.Display Book Details", GREEN);
 	centerText("2.Search Book", GREEN);
