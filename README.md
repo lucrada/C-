@@ -1,1 +1,1 @@
-# SIMPLE LIBRARY MANAGEMENT PROGRAM
+# Simple library management program in C++
